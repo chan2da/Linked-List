@@ -1,5 +1,7 @@
 # Linked-List
 * 링크드 리스트를 활용하는 예제를 가장 간단하게 만들어서 Github에 올리고 링크를 제출한다. * 팀원의 소감을 적는다.
+
+
 링크드 리스트를 활용하는 예제 <코드>
 #include <stdio.h>
 #include <stdlib.h>
@@ -50,6 +52,7 @@ int main() {
 
     return 0;
 }
+
 
 <설명>
 코드 설명
